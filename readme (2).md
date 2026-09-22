@@ -66,5 +66,7 @@ void setup() {
 
 The **Keypad-Based Security System with Arduino** provides a simple and effective way to understand electronic access control. It combines a keypad, Arduino, display, buzzer, and locking mechanism to create a basic password-protected security system. The project can also serve as a foundation for developing advanced smart security systems.
 
-## 
+## Result
+<img width="1600" height="900" alt="RESULT" src="https://github.com/user-attachments/assets/347769b2-3185-4e70-9344-93cf52ccfa2a" />
+
 
